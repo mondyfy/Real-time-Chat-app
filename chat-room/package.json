@@ -1,0 +1,20 @@
+{
+  "name": "chat-room",
+  "version": "1.0.0",
+  "description": "one-to-one real time chat app in node",
+  "main": "script.js",
+  "scripts": {
+    "test": "startdev",
+    "devStart": "nodemon server.js"
+  },
+  "author": "Sandip Basnet",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
