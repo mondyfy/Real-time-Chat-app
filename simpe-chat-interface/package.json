@@ -1,5 +1,5 @@
 {
-  "name": "one-one-real-time-chat",
+  "name": "real-time-chat",
   "version": "1.0.0",
   "description": "one-to-one real time chat app in node",
   "main": "script.js",
